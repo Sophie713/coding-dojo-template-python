@@ -22,3 +22,8 @@ For example, how much does this basket of books cost?
 * 1 copy of the fifth book
 
 (answer: 51.20 EUR)
+
+Hint: biggest possible discount could be achieved for two sets of four books (1, 2, 3, 4) and (1, 2, 3, 5) instead of one five books set (1, 2, 3, 4, 5) and one three book set (1, 2, 3).
+
+(5 * €8 * 0.75) + (3 * €8 * 0.9) = €51.6
+2 * (4 * €8 * 0.8) = €51.2
